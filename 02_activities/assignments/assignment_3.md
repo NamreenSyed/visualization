@@ -6,19 +6,44 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
-        Your answer...
+     
+HR Attrition Dashboard:
 
+1. The data follows an accessible color scheme, which can be followed by those on the spectrum for color blindness.
+2. Because each element or variable of the data is clearly organized in a separate, distinct box, it is simpler to follow for those on the spectrum or with neurodivergence.
+3. The data points are exclusionary and may be triggering for those on the gender spectrum, as this visual presents a clear gender dichotomy of male and female, which does not account for people who identify differently.
+4. Similarly, the demographics listed for age and education levels may open the door for ageism and elitism in the analysis of this data. The representation definitely shows a bias toward viewing employees from ageist, gender-based, and elitist lenses.
+5. The data visual fails to tell a story, which puts the burden of analysis on the reader, who may or may not have the necessary context and information to come to any conclusion.
+6. This visual appears to be one that would be easily reproducible, where the data scientist could simply input new values and produce the same visual year after year.
 
+AI Data Visual:
 
-        ```
-    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
-        Your answer...
+1. This visual is not accessible to those with neurodivergence and sensitivity to very bright colors, as the entire visual has too many font types and styles jumbled up, and the patterns and pathways take time for the viewer to fully digest and decipher.
+2. The terms "boring" and "irrational" might trigger insecurities in the audience and may actually alienate some people on the neurodivergence spectrum who aren’t socially atypical.
+3. By mentioning ‘interns' work, an inherent bias towards hierarchy in the organization favoring seniority is revealed, which may make the visual unappealing for early-career people.
+4. The visual boxes humans and AI as having specific traits, which may not appeal to all people and may alienate people who cannot relate.
+5. It is not easy to follow the visuals, as the two characters in the visual are not represented consistently throughout.
+6. The visual does not have reproducibility.
+7. The visual is gender and race neutral, which is great!
 
+- How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?
 
+HR Attrition Visual:
 
-        ```
+1. Add gender diversity to the visual or remove gender, age, and education demographics altogether.
+2. Add a separate key for the color-coding system in the Survey Score category.
+
+AI Visual:
+
+1. Replace the yellow with a less bright color.
+2. Remove shadows.
+3. Keep characters consistent visually.
+4. Use one font style.
+5. Add more spacing between each level or layer of the descriptor.
+6. Use text colors that are easily visible with the white background.
+7. Use more inclusive and neutral language.
+8. At a conceptual level, perhaps present the argument in a more logical manner instead of trying so hard to appear 'light-hearted and fun.'
+
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
